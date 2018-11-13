@@ -6,3 +6,7 @@ instalação das bibliotecas:
 - microsoft.owin.host.System.web
 - microsoft.owin.security.cookies
 
+
+
+ - jquery.validation
+- microsoft.jquery.unobtrusive.validation
